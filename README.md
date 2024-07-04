@@ -23,6 +23,9 @@ For this course you'll need the following:
   - [kubectl](https://kubernetes.io/docs/tasks/tools/#kubectl)
   - [Docker](https://docs.docker.com/engine/install/)
   - [gcloud](https://cloud.google.com/sdk/docs/install-sdk)
+  - [helm](https://helm.sh/docs/intro/install/) (optional)
+  - [helmfile](https://github.com/helmfile/helmfile/releases) (optional)
+  - [k9s](https://k9scli.io/topics/install/) (optional)
 
 > Note: There are sometimes limitations with company laptops in which case we recommend making use of Google Cloud Shell, see below for more details.
 
