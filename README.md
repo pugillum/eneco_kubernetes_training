@@ -51,6 +51,7 @@ Installation instructions for the technologies:
 - [kubectl](https://kubernetes.io/docs/tasks/tools/#kubectl)
 - [Docker](https://docs.docker.com/engine/install/)
 - [gcloud](https://cloud.google.com/sdk/docs/install-sdk)
+- [gcloud kubectl plugin](https://cloud.google.com/kubernetes-engine/docs/how-to/cluster-access-for-kubectl#install_plugin).
 
 ### gcloud setup
 
